@@ -2,4 +2,5 @@ ipywidgets==7.7.1
 matplotlib
 numpy
 pandas
-git+https://github.com/hiive/hiicemdptoolbox.git@dd44587196f698ecbe34ab51eed3b13051e82c1b
+jupyter
+git+https://github.com/hiive/hiivemdptoolbox.git@dd44587196f698ecbe34ab51eed3b13051e82c1b
